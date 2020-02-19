@@ -1,0 +1,5 @@
+Run the Python script RulesEngine.py from the command line as follows:
+1) Have you command line at the directory containing RulesEngine.py
+2) Run with python RulesEngine.py
+
+The result will print at the command prompt
