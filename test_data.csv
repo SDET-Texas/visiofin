@@ -1,0 +1,8 @@
+credit_score,state,product_name,county, expected_result
+750,Florida,7-1 ARM,Broward,None
+650,Florida,8-1 ARM,Collier,None
+720,Georgia,8-1 ARM,Bibb, 4.7
+720,Georgia,7-1 ARM,Gwinnett, 4.95
+720, Texas,7-1 ARM,Denton, 5.2
+650, Missouri,7-1 ARM,Jackson, 6.0
+650, Illinois,8-1 ARM,Cook, 5.5

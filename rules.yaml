@@ -1,0 +1,11 @@
+promo_credit_score: 720
+penalty_credit_score: 720
+interest_promo_amount: 0.3
+interest_penalty_amount: 0.5
+sub_product_name:  7-1 ARM
+sub_product_penalty_amount: 0.5
+sub_product_regulated_counties:
+  - Cobb
+  - Gwinnett
+disqualifying_states:
+  - Florida
